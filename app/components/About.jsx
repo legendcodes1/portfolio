@@ -46,10 +46,11 @@ const About = () => {
               className="mb-10 max-w-2xl text-gray-300 text-lg"
               style={{ fontFamily: "var(--font-secondary)" }}
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Repellendus amet sequi soluta suscipit id minima fugit sunt
-              commodi unde pariatur ipsum maxime, consequuntur doloribus
-              repellat aspernatur iure laudantium velit ducimus.
+              I hold a Bachelor's degree in Information Systems with a minor in
+              Computer Science and Cybersecurity. I'm a passionate developer who
+              thrives on turning creative ideas into real-world applications.
+              Outside of coding, you'll find me playing Valorant, enjoying anime
+              and K-dramas, or hitting the basketball court.
             </p>
 
             {/* Info List */}

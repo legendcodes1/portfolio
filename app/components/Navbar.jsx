@@ -97,7 +97,7 @@ const Navbar = () => {
         {/* Right-side controls */}
         <div className="flex items-center gap-4">
           {/* Theme toggle button - you might want to implement actual dark/light mode toggle */}
-          <button className="p-2 rounded-full hover:bg-gray-800 transition-colors">
+          {/* <button className="p-2 rounded-full hover:bg-gray-800 transition-colors">
             <Image
               src={assets.moon_icon}
               alt="Theme toggle"
@@ -105,7 +105,7 @@ const Navbar = () => {
               width={20}
               height={20}
             />
-          </button>
+          </button> */}
 
           {/* Contact button */}
           <a

@@ -90,21 +90,23 @@ export const workData = [
     title: "Eccomerce Website",
     description: "Web Design",
     bgImage: "/work-1.png",
+    link: "https://ecommerce-phi-khaki.vercel.app/",
   },
   {
     title: "Financial Dashboard",
     description: "Finance Dashboard",
     bgImage: "/work-2.png",
   },
-  {
-    title: "Fitness App",
-    description: "Fitness App",
-    bgImage: "/work-3.png",
-  },
+  // {
+  //   title: "Fitness App",
+  //   description: "Fitness App",
+  //   bgImage: "/work-3.png",
+  // },
   {
     title: "Real Estate Web Application",
     description: "Real Estate Full stack App",
     bgImage: "/work-4.png",
+    link: "https://y-coral-iota.vercel.app/",
   },
 ];
 
@@ -113,7 +115,7 @@ export const serviceData = [
     icon: assets.web_icon,
     title: "Web design",
     description: "Web development is the process of building, programming...",
-    link: "",
+    link: "https://ecommerce-phi-khaki.vercel.app/",
   },
   {
     icon: assets.mobile_icon,

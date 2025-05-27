@@ -7,7 +7,7 @@ const Header = () => {
     <div className="w-full bg-black text-white">
       <div className="w-11/12 max-w-3xl text-center mx-auto h-screen flex flex-col justify-center items-center gap-4">
         <span className="inline-block px-4 py-1 mb-2 text-sm font-medium text-cyan-300 bg-cyan-900/30 rounded-full">
-          Frontend Developer
+          Full Stack Developer
         </span>
 
         <h3
@@ -38,7 +38,7 @@ const Header = () => {
 
         <div className="flex flex-col sm:flex-row items-center gap-4 mt-6">
           <a
-            href="#contact"
+            href="https://github.com/legendcodes1?tab=repositories"
             className="px-10 py-3 border-none rounded-full bg-gradient-to-r from-cyan-500 to-purple-600 text-white flex items-center gap-2 font-medium hover:opacity-90 transition-opacity"
           >
             Git Hub

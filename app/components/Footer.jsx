@@ -49,7 +49,7 @@ const Footer = () => {
               <ul className="flex items-center gap-6">
                 <li>
                   <a
-                    href="#"
+                    href="https://github.com/legendcodes1?tab=repositories"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 text-gray-400 hover:text-cyan-400 transition-colors"
@@ -71,7 +71,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="#"
+                    href="https://www.linkedin.com/in/faruq-sowemimo/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 text-gray-400 hover:text-cyan-400 transition-colors"
@@ -87,7 +87,7 @@ const Footer = () => {
                     <span>LinkedIn</span>
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a
                     href="#"
                     target="_blank"
@@ -104,7 +104,7 @@ const Footer = () => {
                     </svg>
                     <span>Twitter</span>
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
           </div>
